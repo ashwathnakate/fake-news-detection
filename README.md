@@ -19,6 +19,7 @@ The goal of this project is to build a binary classification model that can accu
 The dataset consists of two CSV files:
 - `True.csv` – Contains real news articles
 - `Fake.csv` – Contains fake news articles
+- Dataset can be found at [https://www.kaggle.com/datasets/abaghyangor/fake-news-dataset/data]
 
 | **Class** | **Number of Samples** |
 |-----------|-----------------------|
