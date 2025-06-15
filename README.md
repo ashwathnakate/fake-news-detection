@@ -1,6 +1,6 @@
 # 📰 Fake News Detection using Deep Learning
 
-This repository contains a deep learning model for detecting fake news using a Bidirectional LSTM (Long Short-Term Memory) network. The model is trained on a dataset of real and fake news articles and achieves **high accuracy** in distinguishing between them.
+This repository contains a deep learning model for detecting fake news using a Bidirectional LSTM (Long Short-Term Memory) network. The model is trained on a dataset of real and fake news articles and achieves **high accuracy** in distinguishing between real and fake news.
 
 ---
 
