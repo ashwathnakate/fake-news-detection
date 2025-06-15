@@ -1,7 +1,7 @@
 
 # Fake News Detection Model Report
 
-**Date:** 2025-03-28
+**Date:** 2025-06-13
 
 ## 1. Model Overview
 This report outlines the performance and structure of a deep learning model created for fake news detection.
